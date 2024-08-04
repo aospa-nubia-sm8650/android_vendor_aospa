@@ -37,6 +37,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/mini5g/aospa_mini5g.mk \
     $(LOCAL_DIR)/munch/aospa_munch.mk \
     $(LOCAL_DIR)/nuwa/aospa_nuwa.mk \
+    $(LOCAL_DIR)/nx769j/aospa_nx769j.mk \
     $(LOCAL_DIR)/oneplus5/aospa_oneplus5.mk \
     $(LOCAL_DIR)/oneplus5t/aospa_oneplus5t.mk \
     $(LOCAL_DIR)/oneplus7/aospa_oneplus7.mk \
